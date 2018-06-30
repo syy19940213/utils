@@ -1,0 +1,26 @@
+# Eclipse Project Files
+.settings/
+.classpath
+.project
+
+# Idea Project Files
+.idea/
+*.iml
+
+# Log Files
+*.log
+
+# Compiled class file
+target/
+*.class
+
+# Package Files
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+# Temp Files
+*.tmp
+*.temp
